@@ -10,7 +10,8 @@
         "https://code.visualstudio.com/assets/docs/languages/typescript/overview.png"
       ],
       "developer": "Microsoft",
-      "description": "Text editing. Redefined"
+      "description": "Text editing. Redefined",
+      "size": 90.4
     }
   ]
 }
