@@ -49,6 +49,18 @@
       "developer": "GNOME",
       "description": "gedit is the official text editor of the GNOME desktop environment. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.     Whether you are writing the next bestseller, programming an innovative application, or simply taking some quick notes, gedit will be a reliable tool to accomplish your task.      Its flexible plugin system allows you to tailor the application to your needs and adapt it to your workflow.",
       "size": 10
+    },
+    {
+      "name": "Flutter SDK",
+      "icon": "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
+      "packageName": "flutter",
+      "packageSource": "snap",
+      "screenshots": [
+        "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"
+      ],
+      "developer": "Google | Flutter Team",
+      "description": "Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+      "size": 800
     }
   ]
 }
