@@ -37,6 +37,18 @@
       "developer": "Sublime",
       "description": "Sublime Text is a powerful multi-platform text editor with a clean, modern user interface. Bringing wide support for programming languages, extensions, syntax-based features and many other useful features alongside low resource usage, Sublime Text proves itself to be a very competent solution for a vast set of environments and applications. The software may be downloaded and evaluated for free, however a license must be purchased for continued use.",
       "size": 10
+    },
+    {
+      "name": "GEdit",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GNOME_Gedit_2018.svg/1200px-GNOME_Gedit_2018.svg.png",
+      "packageName": "gedit",
+      "packageSource": "snap",
+      "screenshots": [
+        "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_819,h_827/https://dashboard.snapcraft.io/site_media/appmedia/2017/07/Screenshot_from_2017-07-19_15-25-40.png"
+      ],
+      "developer": "GNOME",
+      "description": "gedit is the official text editor of the GNOME desktop environment. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.     Whether you are writing the next bestseller, programming an innovative application, or simply taking some quick notes, gedit will be a reliable tool to accomplish your task.      Its flexible plugin system allows you to tailor the application to your needs and adapt it to your workflow.",
+      "size": 10
     }
   ]
 }
