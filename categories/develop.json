@@ -72,7 +72,7 @@
         ],
         "developer": "Google | Dart Team",
         "description": "Dart Programming language SDK",
-        "size": 800,
+        "size": 350,
         "additionalSetup": [
             "sudo apt-get update",
             "sudo apt-get install apt-transport-https",
