@@ -61,6 +61,24 @@
         "developer": "Google | Flutter Team",
         "description": "Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
         "size": 800
+      },
+      {
+        "name": "Dart SDK",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png",
+        "packageName": "dart",
+        "packageSource": "deb",
+        "screenshots": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1280px-Dart_programming_language_logo.svg.png"
+        ],
+        "developer": "Google | Dart Team",
+        "description": "Dart Programming language SDK",
+        "size": 800,
+        "additionalSetup": [
+            "sudo apt-get update",
+            "sudo apt-get install apt-transport-https",
+            "wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/dart.gpg",
+            "echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' | sudo tee /etc/apt/sources.list.d/dart_stable.list"
+        ]
       }
     ]
   }
